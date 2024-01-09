@@ -1,0 +1,30 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+header{
+    background-image: url(../images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+height: 600px;
+margin: 50px 140px auto 140px;
+background-position: 80%;
+}
+.newyear-wish{
+    color: #FFF;
+
+font-size: 32px;
+font-weight: 400;
+width: 260px;
+height: 40px;
+margin: 200px 530px 0px 530px ;
+
+}
+.newyear-celebration{
+    color: #FFF;
+
+text-align: center;
+font-size: 72px;
+margin: 233px 345px 117px 345px;
+width: 632px;
+heigh
+}
